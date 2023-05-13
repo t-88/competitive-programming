@@ -2,6 +2,7 @@
 
 d =  int(input())
 
+
 number = 2
 while d > 3:
     d /= number % 10
